@@ -1,2 +1,1 @@
-# DjangoREST
-# DjangoREST
+# Aluno: Jair Augusto Dério Boeing
